@@ -6,4 +6,4 @@
 - Many news apps also offer additional features such as live video streaming, podcasts, and interactive content such as quizzes and polls, to enhance the user experience and keep users engaged with the app.
 - Overall, a news app is a convenient and accessible way for users to stay informed and up-to-date on the latest news and events from around the world.
 - This code is perfect to work on a local host, but if you want to host the website then uncomment the part that is commented 
-- For any doubt mail ne on ayushpandey1591@gmail.com
+- For any doubt mail ne on ayushpandey150301@gmail.com
