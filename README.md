@@ -1,5 +1,5 @@
 # News-App
-- This is a News Application usinh HTML,JavaScript,BootStrap and newsapi
+- This is a News Application using HTML,JavaScript,BootStrap and newsapi
 - A news app is a mobile application that provides users with up-to-date news articles and information on a variety of topics. The app is designed to keep users informed and engaged with current events, breaking news, and developments in various fields, such as politics, business, technology, sports, entertainment, and more.
 - The interface of a news app is typically user-friendly and easy to navigate, with various sections or tabs that allow users to access news stories on specific topics or from specific sources. Many news apps also allow users to personalize their news feeds based on their interests, location, and preferences, providing a customized experience.
 - News apps typically rely on various sources of information, including news outlets, wire services, and social media platforms, to deliver the latest news stories to users. Some apps may also use artificial intelligence and machine learning algorithms to curate news stories based on a user's reading habits and interests.
